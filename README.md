@@ -46,7 +46,7 @@ o bien
 
 1) Instala SWI-Prolog:
     ```
-    sudo apt install swi-prolog
+    sudo apt install swi-prolog 8.0.2
     ```
     If you don't want the X bindings, just use the `swi-prolog-nox` package.
 
